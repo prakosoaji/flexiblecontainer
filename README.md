@@ -1,6 +1,8 @@
 # flexiblecontainer
 
-A new Flutter project.
+A new Flutter App Learn Flexible Container
+
+
 
 ## Getting Started
 
